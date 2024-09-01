@@ -42,7 +42,7 @@ public class Main {
         }
     }
 
-    public static void printMenu(){
+    public static void printMenu(){     //вывод меню выбора
         System.out.println("""
                 Что вы хотите сделать?
                  
